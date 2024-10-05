@@ -1,2 +1,2 @@
 bronnen:
-uitleg bepaalde code, James Kok 2e jaars student.
+uitleg en tips van 2e jaars student.
